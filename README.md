@@ -28,6 +28,8 @@
 > 
 > 使用此仓库必须设置机密token，Actions云构建固件时需要用到，通常在仓库设置里面。机密键名为 **`GH_TOKEN`**（严禁在仓库可视代码中填写，否则后果自负）
 
+---
+
 ## 😅 第三方插件 [![](https://img.shields.io/badge/-第三方插件-FFFFFF.svg)](#-第三方插件-)
 <div align="center">
 
@@ -71,8 +73,12 @@
 | h6       | Vplus, Tanix-TX6, TQC-A01 |
 | h618     | OrangePi-Zero3, H618-DevBoard, X98H |
 
+---
+
 ## 🤗 项目截图 [![](https://img.shields.io/badge/-项目截图-FFFFFF.svg)](#-项目截图-)
 ![screenshots](./files/screenshot/screenshot1.png)
+
+---
 
 ## 🌟 Star戳一戳，好运加满！😆
 > **"点过 `Star` 的朋友，颜值与智慧双双在线！✨"**
